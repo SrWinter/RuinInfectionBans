@@ -2,5 +2,9 @@
     "StonerLuci": {
         "banneduntil": "2/3/2099",
         "BanReason": "Average british monarch"
+    },
+    "JR_JMR": {
+        "banneduntil": "2/3/2099",
+        "BanReason": "dont snitch"
     }
 }
